@@ -2,6 +2,9 @@
 The Hong Kong University of Science and Technology course "Python and Statistics for Financial Analysis" by Prof. Xuhu Wan on Coursera (Feb. 2023).
 
 
+![image](https://user-images.githubusercontent.com/59873708/219880842-629df982-ed90-4330-b2ff-5ac0e21c128e.png)
+
+
 ### Syllabus
 
      Week 1 - Visualizing and Munging Stock Data
